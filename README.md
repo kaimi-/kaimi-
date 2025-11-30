@@ -1,1 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaimi-&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+I'm Sergey “Kaimi” Belov, a cybersecurity engineer and team lead focused on application security, penetration testing and security architecture for enterprise systems. I spend most of my time helping companies understand how they can actually be hacked - and then making sure it's me who does it first 🛡️🐞
+
+On the technical side, my background is a mix of low-level development and offensive security. Over the last decade I've led and built security teams in banking, fintech, AI platforms, and Big4 consulting, doing everything from classic penetration testing and reverse engineering to SSDLC, threat modeling, and large-scale vulnerability assessments. I've worked across stacks and environments, from ATMs and payment systems to cloud infrastructure and developer tooling, and I still enjoy getting my hands dirty with Burp, IDA, nmap, and a good hex editor 🧩
+
+Outside of work I'm active in bug bounty programs and CTFs (not much in past few years) - hunting bugs in major platforms, earning a few Hall of Fame mentions along the way, and continuously sharpening my offensive skills. When I publish something (here or on my and d_x blog at [kaimi.io](https://kaimi.io)), it's usually tooling, PoCs, and small experiments around application security, infrastructure hardening, and automation 💻 You can also find my commentary on cybercrime, financial fraud and digital risks in various media and industry outlets. 
+
+If you're interested in collaboration, security reviews or just want to discuss weird bugs and interesting exploits, reach me out via contacts on [belov.expert](https://belov.expert) / [kaimi.io](https://kaimi.io) ⚡
+
