@@ -146,7 +146,6 @@ result == "clear attack paths + business impact + prioritized fixes"
 
 <a href="https://linkedin.com/in/bserg"><img src="https://img.shields.io/badge/LinkedIn-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff1e1e" alt="LinkedIn" /></a>
 <a href="https://twitter.com/kaimi_io"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0b0b0f?style=for-the-badge&logo=x&logoColor=white&labelColor=ff1e1e" alt="X / Twitter" /></a>
-<a href="https://github.com/kaimi-"><img src="https://img.shields.io/badge/GitHub-0b0b0f?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1e1e" alt="GitHub" /></a>
 <a href="https://t.me/kaimi_ru"><img src="https://img.shields.io/badge/Telegram-0b0b0f?style=for-the-badge&logo=telegram&logoColor=white&labelColor=ff1e1e" alt="Telegram" /></a>
 <a href="https://www.instagram.com/kaimi_ru/"><img src="https://img.shields.io/badge/Instagram-0b0b0f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff1e1e" alt="Instagram" /></a>
 <a href="https://kaimi.io/"><img src="https://img.shields.io/badge/Blog-0b0b0f?style=for-the-badge&logo=rss&logoColor=white&labelColor=ff1e1e" alt="Blog" /></a>
