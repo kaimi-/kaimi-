@@ -19,7 +19,7 @@
 <tr>
 <td width="58%" valign="top">
 
-<h3>▌root@enterprise:~# whoami</h3>
+<h3>&gt; root@enterprise:~# whoami</h3>
 
 <p>
 I’m <b>Sergey “Kaimi” Belov</b> — a cybersecurity engineer and team lead focused on <b>application security</b>, <b>penetration testing</b>, and <b>security architecture</b> for enterprise and financial systems.
