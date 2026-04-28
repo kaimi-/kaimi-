@@ -116,6 +116,7 @@ Reverse engineering, exploit research, infrastructure hardening, CTF/bug bounty 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kaimi-&show_icons=true&hide_title=true&hide_border=true&theme=transparent&title_color=ff2d2d&text_color=c9d1d9&icon_color=ff2d2d&bg_color=0d1117" alt="GitHub stats" />
 
+<img src="https://raw.githubusercontent.com/kaimi-/kaimi-/output/snake.svg" alt="Snake" />
 </div>
 
 ---
